@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="184261d2-1514-4ee4-bd6a-7548c33fcdc2" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
