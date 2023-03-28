@@ -2,13 +2,14 @@ package src;
 
 public class Main {
     public static void main(String[] args) {
-        int[] price = new int[] {20, 30, 10};
+        long[] price = new long[] {20, 30, 10};
+
 
         SalesManager sales = new SalesManager(price);
 
-        int max = sales.max();
-        int min = sales.min();
-        int average = sales.average();
+        long max = sales.max();
+        long min = sales.min();
+        long average = sales.average();
 
         System.out.println(max);
         System.out.println(min);
